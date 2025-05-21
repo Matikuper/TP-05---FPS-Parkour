@@ -18,7 +18,7 @@ public class RestartOnFall : MonoBehaviour
     {
         if (transform.position.y < yFallHeight)
         {
-            Debug.Log("Me caí chispa");
+            Debug.Log("Me caí");
             SceneManager.LoadScene("Parkour");
         }
     }
