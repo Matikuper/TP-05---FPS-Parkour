@@ -376,7 +376,7 @@ GameObject:
   - component: {fileID: 208153404}
   - component: {fileID: 208153403}
   m_Layer: 0
-  m_Name: Piso arriba
+  m_Name: Rampa arriba
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -558,7 +558,7 @@ GameObject:
   - component: {fileID: 568572878}
   - component: {fileID: 568572877}
   m_Layer: 0
-  m_Name: Arriba del todo
+  m_Name: Plataforma final
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -900,7 +900,7 @@ GameObject:
   - component: {fileID: 1753322688}
   - component: {fileID: 1753322687}
   m_Layer: 0
-  m_Name: Piso abajo
+  m_Name: Rampa abajo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
