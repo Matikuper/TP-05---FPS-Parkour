@@ -21,4 +21,4 @@ public class HurtingObject : MonoBehaviour
             healthManager.updateHealth(-damagePoints);
         }
     }
-}
+}   
